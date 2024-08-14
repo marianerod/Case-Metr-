@@ -21,3 +21,10 @@ _Etapas do Pré-processamento no Pipeline:_
 ## 📈 Insights e Conclusões
 
 Através dos cálculos realizados, foi possível identificar o faturamento em 1 hora durante o horário de pico no metrô de São Paulo. Porém, em ambos os cálculos (simples e complexo), existem alguns prós e contras que podem influenciar no resultado obtido. Para isso, é necessário obter mais dados para calibrar e validar o modelo, visando alcançar um resultado mais preciso.
+
+## 📜 Estrutura do Projeto
+
+A estrutura de diretórios do projeto foi organizada da seguinte forma:
+- Imagens: Contém imagens para o readme do projeto e no notebook;
+- Notebooks: Contém o código em python realizado no Google Colab;
+- Apresentação: Contém a apresentação em pdf do projeto.
